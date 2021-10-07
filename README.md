@@ -5,3 +5,4 @@ Este repositorio guardará imágenes para el uso que desee.
 [![Quick-Sort.jpg](https://i.postimg.cc/Yq6rcJYz/Quick-Sort.jpg)](https://postimg.cc/bsvckV6Z)
 [![Merge.png](https://i.postimg.cc/ZRh8KWVM/Merge.png)](https://postimg.cc/67Y2Mpsr)
 [![M1.png](https://i.postimg.cc/pXYXgpFd/M1.png)](https://postimg.cc/xc82mjgr)
+[![Quick-Sort-desbalanceado.jpg](https://i.postimg.cc/yNkzLdKW/Quick-Sort-desbalanceado.jpg)](https://postimg.cc/67JS3ByN)
