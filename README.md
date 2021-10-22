@@ -8,3 +8,4 @@ Este repositorio guardará imágenes para el uso que desee.
 [![Quick-Sort-desbalanceado.jpg](https://i.postimg.cc/yNkzLdKW/Quick-Sort-desbalanceado.jpg)](https://postimg.cc/67JS3ByN)
 [![algoritmo-de-busqueda.png](https://i.postimg.cc/J0VqVvwb/algoritmo-de-busqueda.png)](https://postimg.cc/VrgMX7k6)
 [![busquedasecuencial.jpg](https://i.postimg.cc/XqwhKP9g/busquedasecuencial.jpg)](https://postimg.cc/JHzPMP6y)
+[![f0801.png](https://i.postimg.cc/FFgDZ32G/f0801.png)](https://postimg.cc/Lh5t4Y4Z)
